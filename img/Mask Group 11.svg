@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_147735" data-name="Rectangle 147735" width="24" height="24" transform="translate(531 411)" fill="#5a5a5a" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_11" data-name="Mask Group 11" transform="translate(-531 -411)" clip-path="url(#clip-path)">
+    <g id="INSTAGRAM" transform="translate(531 411)">
+      <g id="Group_162782" data-name="Group 162782">
+        <g id="Group_162781" data-name="Group 162781">
+          <path id="Path_83720" data-name="Path 83720" d="M17.421,0H6.579A6.587,6.587,0,0,0,0,6.579V17.421A6.587,6.587,0,0,0,6.579,24H17.421A6.587,6.587,0,0,0,24,17.421V6.579A6.587,6.587,0,0,0,17.421,0Zm5.162,17.421a5.168,5.168,0,0,1-5.162,5.162H6.579a5.168,5.168,0,0,1-5.162-5.162V6.579A5.168,5.168,0,0,1,6.579,1.417H17.421a5.168,5.168,0,0,1,5.162,5.162Z" fill="#5a5a5a"/>
+        </g>
+      </g>
+      <g id="Group_162784" data-name="Group 162784" transform="translate(5.417 5.417)">
+        <g id="Group_162783" data-name="Group 162783">
+          <path id="Path_83721" data-name="Path 83721" d="M12.9,6.32A6.583,6.583,0,1,0,19.486,12.9,6.59,6.59,0,0,0,12.9,6.32Zm0,11.748A5.165,5.165,0,1,1,18.068,12.9,5.171,5.171,0,0,1,12.9,18.068Z" transform="translate(-6.32 -6.32)" fill="#5a5a5a"/>
+        </g>
+      </g>
+      <g id="Group_162786" data-name="Group 162786" transform="translate(16.976 3.024)">
+        <g id="Group_162785" data-name="Group 162785">
+          <path id="Path_83722" data-name="Path 83722" d="M21.806,3.528a2,2,0,1,0,2,2A2,2,0,0,0,21.806,3.528Zm0,2.583a.583.583,0,1,1,.583-.583A.583.583,0,0,1,21.806,6.11Z" transform="translate(-19.806 -3.528)" fill="#5a5a5a"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

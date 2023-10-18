@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_147729" data-name="Rectangle 147729" width="24" height="24" transform="translate(50 0.19)" fill="#5a5a5a" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_6" data-name="Mask Group 6" transform="translate(-50 -0.19)" clip-path="url(#clip-path)">
+    <g id="facebook" transform="translate(50 0.19)">
+      <g id="Group_162706" data-name="Group 162706">
+        <g id="Group_162705" data-name="Group 162705">
+          <g id="Group_162704" data-name="Group 162704">
+            <path id="Path_83702" data-name="Path 83702" d="M14.545,12.364v1.455H13.091V16h1.455v6.545h2.909V16h1.935l.247-2.182H17.455V12.545c0-.589.058-.9.967-.9h1.215V9.455H17.687C15.36,9.455,14.545,10.545,14.545,12.364Z" transform="translate(-4.114 -4)" fill="#5a5a5a"/>
+            <path id="Path_83703" data-name="Path 83703" d="M12,0A12,12,0,1,0,24,12,12,12,0,0,0,12,0Zm0,22.909A10.909,10.909,0,1,1,22.909,12,10.909,10.909,0,0,1,12,22.909Z" fill="#5a5a5a"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

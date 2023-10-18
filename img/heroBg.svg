@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2633.016" height="2543.331" viewBox="0 0 2633.016 2543.331">
+  <defs>
+    <filter id="blue" x="89.686" y="0" width="2543.331" height="2543.331" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="49.5" result="blur"/>
+      <feFlood flood-color="#027ab7"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="red" x="473.864" y="278.588" width="1222.582" height="1191.082" filterUnits="userSpaceOnUse">
+      <feOffset dx="180" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="49.5" result="blur-2"/>
+      <feFlood flood-color="#ef0220"/>
+      <feComposite operator="in" in2="blur-2"/>
+    </filter>
+  </defs>
+  <g id="heroBg" transform="translate(0 288.67)">
+    <g transform="matrix(1, 0, 0, 1, 0, -288.67)" filter="url(#blue)">
+      <circle id="blue-2" data-name="blue" cx="1123.165" cy="1123.165" r="1123.165" transform="translate(238.19 148.5)" fill="#3657ff" opacity="0.2"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, -288.67)" filter="url(#red)">
+      <circle id="red-2" data-name="red" cx="447.041" cy="447.041" r="447.041" transform="translate(473.86 427.09)" fill="#fff" opacity="0.03"/>
+    </g>
+    <rect id="blur-3" data-name="blur" width="1920" height="1080" fill="#fff"/>
+  </g>
+</svg>
